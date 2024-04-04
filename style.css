@@ -1,0 +1,355 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: whitesmoke;
+  /* background-color: rgb(211, 202, 202);  */
+}
+.container {
+  width: 1330px;
+  margin: auto;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.header {
+  height: 80px;
+  background-color: whitesmoke;
+  border-bottom: 0.5px solid rgb(170, 160, 160);
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.logo {
+  width: 10%;
+  height: auto;
+  margin-left: 3%;
+  margin-top: 1%;
+}
+.header_nav a {
+  text-decoration: none;
+  color: rgb(31, 29, 29);
+  margin: auto;
+  margin-left: 4%;
+}
+.button {
+  margin-left: 4%;
+  background-color: #04aa6d;
+  border: 1px solid rgb(45, 48, 41);
+  color: rgb(29, 28, 28);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.button:hover {
+  color: rgb(245, 233, 233);
+  background-color: black;
+}
+.img {
+  background-image: url(whatapp1.png);
+  width: 1270px;
+  height: 700px;
+  margin-top: 8%;
+  margin-left: 2%;
+  border-radius: 25px;
+  background-repeat: repeat;
+  background-size: auto;
+}
+.box1 {
+  width: 100%;
+  margin: auto;
+}
+.box1_1 {
+  width: 40%;
+  margin: 5%;
+}
+.text {
+  width: 70%;
+  margin: 7%;
+  color: white;
+  font-size: 100px;
+  font-weight: 350;
+}
+.text1 {
+  font-size: 20px;
+  color: white;
+}
+.box1_1 .img01 {
+  width: 90%;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.box1_1 .img02 {
+  width: 90%;
+  margin-left: 5%;
+}
+.box1_1 .img03 {
+  width: 90%;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.box1_1 .img04 {
+  width: 90%;
+  margin-left: 5%;
+}
+.box1_1 .img05 {
+  width: 90%;
+  margin-left: 5%;
+}
+.img1 {
+  width: 100px;
+}
+.img1 img {
+  width: 1250px;
+  margin-left: 50%;
+  padding-top: 55px;
+}
+.text3 {
+  margin: 0% 21%;
+  text-align: center;
+  font-size: 40px;
+}
+.img2 {
+  width: 100px;
+}
+.img2 img {
+  width: 1250px;
+  margin-left: 50%;
+}
+.box2 {
+  width: 100%;
+  margin: auto;
+  margin-top: 5%;
+}
+.box2_1 {
+  width: 40%;
+  margin: 5%;
+}
+.boxtext1 {
+  width: 100%;
+  margin-left: 15%;
+  margin-top: 25%;
+  font-size: 50px;
+  font-weight: 400;
+}
+.boxtext2 {
+  font-size: 20px;
+}
+.boximg {
+  width: 100%;
+  margin-left: 35%;
+}
+.container1 {
+  width: 1330px;
+  margin: auto;
+  background-color: rgb(26, 24, 27);
+  left: 0;
+  right: 0;
+}
+.spancolor {
+  color: #eef3f1;
+}
+.box3 {
+  width: 100%;
+  margin: auto;
+  margin-top: 5%;
+}
+.box3_1 {
+  width: 40%;
+  margin: 5%;
+}
+.blackimg {
+  margin-left: 15%;
+}
+.boxtext3 {
+  width: 100%;
+  margin-left: 10%;
+  margin-top: 45%;
+  font-size: 60px;
+  color: #12c281;
+}
+.boxtext4 {
+  font-size: 15px;
+  color: white;
+}
+.box4 {
+  width: 100%;
+  margin: auto;
+  margin-top: 7%;
+}
+.box4_1 {
+  width: 40%;
+  margin: 5%;
+}
+.boxtext5 {
+  width: 100%;
+  margin-left: 15%;
+  margin-top: 25%;
+  font-size: 70px;
+  font-weight: 400;
+}
+.boxtext6 {
+  font-size: 20px;
+}
+.chat {
+  background-image: url(whatapp6_1.png);
+  margin-left: 50px;
+  width: 350px;
+}
+.boximg1 {
+  margin-top: 30%;
+  width: 120%;
+}
+.box5 {
+  width: 100%;
+  margin: auto;
+  margin-top: 7%;
+}
+.box5_1 {
+  width: 40%;
+  margin: 5%;
+}
+.boxtext7 {
+  width: 100%;
+  margin-left: 15%;
+  margin-top: 25%;
+  font-size: 70px;
+  font-weight: 400;
+}
+.boxtext8 {
+  font-size: 20px;
+}
+.chat1 {
+  background-image: url(whatapp7_1.png);
+  margin-left: 100px;
+  width: 350px;
+  height: 600px;
+}
+.boximg2 {
+  margin-top: 50%;
+  width: 100%;
+}
+.box6 {
+  width: 100%;
+  margin: auto;
+  margin-top: 7%;
+}
+.box6_1 {
+  width: 40%;
+  margin: 5%;
+}
+.boxtext9 {
+  width: 100%;
+  margin-left: 15%;
+  margin-top: 25%;
+  font-size: 70px;
+  font-weight: 400;
+}
+.boxtext10 {
+  font-size: 20px;
+}
+.boximg3 {
+  margin-top: 30%;
+  margin-left: 45%;
+  width: 100%;
+}
+.box7 {
+  width: 100%;
+  margin: auto;
+  margin-top: 5%;
+}
+.box7_1 {
+  width: 10%;
+  margin: 3%;
+}
+.boximg4 {
+  width: 150%;
+  height: auto;
+  margin-top: 30%;
+}
+.button1 {
+  margin-top: 80%;
+  background-color: #04aa6d;
+  border: 1px solid rgb(45, 48, 41);
+  color: rgb(29, 28, 28);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.button1:hover {
+  color: rgb(10, 10, 10);
+  background-color: rgb(224, 220, 220);
+}
+.moveleft {
+  margin-left: 150px;
+}
+.box7_1 p {
+  font-weight: -10;
+}
+.textcolor {
+  color: white;
+  width: 100px;
+}
+.border {
+  border-bottom: 1px solid #6f6f83;
+  width: 80%;
+  align-items: center;
+}
+.box8 {
+  width: 100%;
+  margin: auto;
+  margin-top: 2%;
+}
+.box8_1 {
+  width: 10%;
+  margin-bottom: 3%;
+}
+.space {
+  margin-left: 10%;
+}
+.space1 {
+  margin-left: 5%;
+}
+.box8_1 p {
+  color: aliceblue;
+}
+.dot {
+  height: 45px;
+  width: 45px;
+  background-color: #413e41;
+  border-radius: 50%;
+  border: 1.5px solid rgb(197, 199, 195);
+  display: inline-block;
+}
+.space2 {
+  margin-left: 5%;
+}
+.space3 {
+  margin-left: 2%;
+}
+.button2 {
+  margin-left: 150%;
+  background-color: rgb(26, 24, 27);
+  border: 3px solid rgb(197, 199, 195);
+  color: white;
+  padding: 15px 80px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 50px;
+  cursor: pointer;
+}
+/* .button2:hover{
+    color: rgb(10, 10, 10);
+    background-color: rgb(224, 220, 220);
+} */
